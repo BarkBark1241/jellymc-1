@@ -73,7 +73,7 @@ function Stats() {
       <div className="relative z-10 w-full h-full">
         <iframe 
           src={statsUrl}
-          allowtransparency="true"
+          allowTransparency="true"
           title="JellyMC Statistics"
           className="w-full border-0"
           style={{ height: iframeHeight }}
